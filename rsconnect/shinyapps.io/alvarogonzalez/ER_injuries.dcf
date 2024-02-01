@@ -1,0 +1,12 @@
+name: ER_injuries
+title: ER_injuries
+username: alvarogonzalez
+account: alvarogonzalez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11099695
+bundleId: 8206861
+url: https://alvarogonzalez.shinyapps.io/ER_injuries/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
